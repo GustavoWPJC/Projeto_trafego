@@ -1,3 +1,5 @@
+package cidade;
+
 public class Rua {
     private int comprimento;
     private int capacidade;
