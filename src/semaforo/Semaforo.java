@@ -1,3 +1,5 @@
+package semaforo;
+
 public class Semaforo {
     private int tempo_ciclo;
     private int tempo_verde;
