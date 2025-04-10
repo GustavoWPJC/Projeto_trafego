@@ -1,3 +1,6 @@
+import estruturas.Evento;
+import estruturas.filaPrioridade;
+
 public class Main {
     public static void main(String[] args) {
         filaPrioridade fila = new filaPrioridade();

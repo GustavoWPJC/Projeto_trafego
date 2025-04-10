@@ -1,3 +1,5 @@
+package estruturas;
+
 public class Evento {
     private int tempo;
     private String tipo;

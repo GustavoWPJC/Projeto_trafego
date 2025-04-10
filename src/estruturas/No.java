@@ -1,3 +1,5 @@
+package estruturas;
+
 public class No {
     private Evento evento;
     private No prox;

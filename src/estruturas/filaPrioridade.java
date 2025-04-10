@@ -1,3 +1,5 @@
+package estruturas;
+
 public class filaPrioridade {
     private No inicio;
     private No novo;
